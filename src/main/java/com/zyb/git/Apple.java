@@ -5,6 +5,8 @@ public class Apple {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
+
+        System.out.println("克隆的git工程");
     }
 
 
